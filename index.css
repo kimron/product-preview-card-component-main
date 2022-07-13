@@ -136,7 +136,7 @@ main{
  }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 530px) {
      *{
           box-sizing: border-box;
      }
@@ -165,7 +165,7 @@ main{
           /* padding-top: 1px; */
           text-align: left;
           height:fit-content;
-          width: 93%;
+          width: 333px;
           border-bottom-left-radius: 3%;
           border-bottom-right-radius: 3%;
           border-top-right-radius: 0;
